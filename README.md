@@ -1,6 +1,6 @@
 # *Tableau Folder Icons*
 
-## *description*
+## *Description*
 
 
 This folder is used to house the Tableau folder images on both the Production & Test server. 
